@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: #7895B2;
+}
+
+img {
+    
+    width: 60%;
+    align-content: center;
+    object-fit: scale-down;  
+}
+
+img.icewater{
+    height: 10%;
+    width: 30%;
+}
+
+body{
+    background-color: #F5EFE6;
+}
