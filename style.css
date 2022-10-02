@@ -4,6 +4,10 @@ h1 {
     font-size: 4rem;
 }
 
+.h1-index{
+    font-size: 5rem;
+}
+
 p, h2 {
     text-align: center;
     font-size: 2rem;
@@ -21,7 +25,9 @@ ol.center-ol{
 }
 
 
-img {
+
+/* Images styles  */
+img.pizza {
     
     width: 60%;
     align-content: center;
@@ -33,6 +39,12 @@ img.icewater{
     width: 30%;
 }
 
+.bg-kitchen {
+   opacity: .85;
+  
+   height:auto;
+
+}
 body{
     background-color: #F5EFE6;
 }
